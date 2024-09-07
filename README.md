@@ -1,1 +1,1 @@
-live link of site [a link](https://task2nsutsolution.netlify.app/)
+Live preivew  of site [ link](https://task2nsutsolution.netlify.app/)
